@@ -14,10 +14,13 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    
                 </div>
             </div>
         </div>
+    </div>
+    <div class="row">
+        
     </div>
 </div>
 @endsection
